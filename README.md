@@ -1,1 +1,1 @@
-The purpose of this repository is to get some practice using Active Directory.
+The purpose of this repository is to showcase my practice with Active Directory by using Oracle VM VirtualBox on my computer. This lab is currently in progress and I will be updating this repository soon.
